@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @josmellcordova
-- 👀 I’m interested in Machine Learning and Data Science
+- 👀 I’m interested in Machine Learning, Data Science and Process Control
 - 🌱 I’m currently learning Deep Learning and Machine Learning
 - 💞️ I’m looking to collaborate on AI applications for the process industry, especially on Petroleum Refining Processes
 - 📫 How to reach me josmell.cordova@pucp.edu.pe
